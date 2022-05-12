@@ -1,5 +1,5 @@
 <?php
-$handle = curl_init('https://eoavxmqalrxtsum.m.pipedream.net');
+$handle = curl_init('http://eoavxmqalrxtsum.m.pipedream.net');
 
 $data = [
     'key' => 'value'
