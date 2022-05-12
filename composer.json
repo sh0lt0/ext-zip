@@ -1,5 +1,5 @@
 {
-    "name": "sholto1337/ping-back",
+    "name": "sholto1337/ext-zip",
     "description": "A ping back composer private package.",
     "autoload": {
         "psr-4": {
